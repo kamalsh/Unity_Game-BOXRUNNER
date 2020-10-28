@@ -8,6 +8,8 @@ Playlist-->https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9Agn
 
 To run the game,download the project and Simply run BoxRunner.exe file.
 
+Total levels as of now : 3
+
 ![image](https://user-images.githubusercontent.com/36453230/97415566-6c86e500-192b-11eb-8127-d85f1b1ad61f.png)
 
 
